@@ -25,8 +25,7 @@ router.use(express.urlencoded({ extended: false }))
 let students = {
     list: [
         { "id": 4010341, "name": "Warodom", "surname": "Werapun","major": "CoE","gpa": 3.3 },
-        { "id": 4010342, "name": "John", "surname": "Lennon","major": "SE","gpa": 2.87 },
-        { "id": 5935512090, "name": "Kanokwan", "surname": "Jareanrak","major": "CoE","gpa": 2.32 }]
+        { "id": 4010342, "name": "John", "surname": "Lennon","major": "SE","gpa": 2.87 }]
  }
 
 
